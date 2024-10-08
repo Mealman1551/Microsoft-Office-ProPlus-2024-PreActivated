@@ -5,7 +5,7 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 2. Run the file as administrator
 3. That's it! You have a free and LEGALLY activated copy of Microsoft ProPlus 2024
 
-## Integrity chack
+## Integrity check
 Hash 256 must be: `335932e68d7a8bfa4fa00bbcdea09256ed6ecab2bedd640e2580b0b43e3b7744`
 
 #### Legal talkies
