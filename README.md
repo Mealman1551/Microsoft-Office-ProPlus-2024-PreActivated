@@ -6,7 +6,7 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 3. That's it! You have a free and LEGALLY activated copy of Microsoft ProPlus 2024
 
 ## Integrity check
-Hash 256 must be: `8DE109598839ECAABCA2E7C58B732BD1C7D0856ACD507F4037CF11B02EC4D3D9`
+Hash 256 must be: `76C426875D92721DC2DA3EB54F9E6F2DC87D74E8DA89B1712F09AF7DC026A210`
 
 #### Legal talkies
 - **Microsoft Office** is a trademark and product of Microsoft Corporation.
